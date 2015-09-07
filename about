@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>About Inquisitive-geek.GitHub.io</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+  </head>
+  <body>
+    <section class="page-header">
+      <nav>
+    		<ul>
+        		<li><a href="/index">Home</a></li>
+	        	<li><a href="/">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/projects">Projects</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+      </nav>	
+      <h1 class="project-name">About me</h1>
+      <h2 class="project-tagline">Please feel free to bookmark this page to keep an eye on project updates</h2>
+    </section>
+    
+    <section class="main-content">
+      <h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Roshan Shetty</h3>
+
+<p>I am a Masters in Information Systems student at University of Cincinnati. I am currently interning at SAP as part of my co-op.</p>
+<p>During my first semester vacation, I was pretty free and I started exploring Coursera's Data Science Specialization and found R pretty simple to use
+and the world of Data Science very interesting. In the next few months, I have gradually spent time learning more and more through online courses and projects. 
+When I was in India for my summer break, I explored some options to get a portfolio of projects under my belt and it led me to register for 
+Udacity's Data Analyst Nanodegree.</p>
+<p>I feel that I am currently ready to take a full time position as a Data Analyst/Scientist in a firm
+and grow even further in this field. You can take a look at <a href="/projects">some of my projects here.</a></p>
+
+</h3>
+</section>
+		<footer>
+    		<ul class = "footer_links">
+        		<li><a href="mailto:rosshanabshetty@gmail.com">Email Me</a></li>
+        		<li><a href="https://github.com/Inquisitive-Geek">Inquisitive-Geek on Gtihub</a></li>
+			</ul>
+		</footer>
+  </body>
+</html>
