@@ -25,4 +25,6 @@ footer {
 .footer_links {
     position: fixed;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
